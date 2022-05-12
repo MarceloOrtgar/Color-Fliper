@@ -1,0 +1,42 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size: 3rem!important;
+    margin-bottom: 3vh;
+}
+
+#background {
+    width: 40em;
+    height: 40em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+    border-radius: 2em;
+    -webkit-box-shadow: 3px 1px 15px 3px #000000; 
+    box-shadow: 3px 1px 15px 3px #000000;
+}
+
+
+button:hover{
+    background-color: rgb(139, 22, 22);
+}
+
+#select{
+    color: yellow;
+
+}
+#parrafo{
+    color: white;
+    margin-right: 1em;
+}
+#texto{
+    margin-top: 2em;
+    width: 20em;
+    height: 3em;
+    background-color: rgb(51, 50, 50);
+    border-radius: 1em;
+}
